@@ -1,0 +1,21 @@
+{
+  "name": "spinforge",
+  "version": "0.1.0",
+  "description": "Browser-based spinning-top battle game",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node --test tests/**/*.test.js"
+  },
+  "keywords": [
+    "game",
+    "physics",
+    "spinning-top",
+    "battle",
+    "es-modules",
+    "canvas"
+  ],
+  "author": "SPINFORGE Team",
+  "license": "MIT"
+}
